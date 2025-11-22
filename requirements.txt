@@ -1,0 +1,13 @@
+numpy
+pandas
+plotly
+tqdm
+jupyter
+ipykernel
+torch
+torchvision
+albumentations
+matplotlib
+ray[tune]
+scikit-learn
+einops
